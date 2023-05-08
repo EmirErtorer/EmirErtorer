@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmirErtorer
 - 👀 I’m interested in game development, machine learning and front end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: emir1.ertorer@gmail.com
 
 <!---
