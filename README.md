@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @EmirErtorer
-- 👀 I’m interested in game development, machine learning and front end development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: emir1.ertorer@gmail.com
-
-<!---
-EmirErtorer/EmirErtorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Emir
+I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy who is interested in game development and machine learning
+You can reach me from my email: emir1.ertorer@gmail.com
