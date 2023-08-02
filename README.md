@@ -1,4 +1,8 @@
-Hi, I’m Emir
-I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy who is interested in game development and machine learning.
+# Hello, I'm Emir!
 
-You can reach me from my email: emir1.ertorer@gmail.com
+# About Me
+Currently, I'm focusing on developing my skills in Java, Python, and C++, as well as diving into the world of game development.
+Additionally, I am actively learning back-end programming to expand my knowledge in building complex web applications
+
+# Contact
+You can reach me from my email at: emir1.ertorer@gmail.com
