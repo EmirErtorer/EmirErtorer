@@ -6,3 +6,5 @@ Additionally, I am actively learning back-end programming to expand my knowledge
 
 # Contact
 You can reach me from my email at: emir1.ertorer@gmail.com
+
+![Codewars]([https://github.r2v.ch/codewars?user=USERNAME](https://www.codewars.com/users/OldOak))
