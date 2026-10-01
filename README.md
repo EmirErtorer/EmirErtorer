@@ -1,14 +1,62 @@
-# Hello, I'm Emir
+<div align="center">
 
-## About Me
-I'm a Computer Engineering graduate from Yeditepe University with a strong focus on system design, machine learning, and full-stack development. My projects range from deploying optimized neural networks on FPGA hardware to building full-stack web applications and recreating classic games like Space Invaders with custom logic.
+# Emir Devlet Ertörer
 
-I'm especially interested in solving complex problems and developing efficient, practical systems through hands-on development and team collaboration.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Computer+Science+and+Engineering+Graduate;Software+%26+Systems+Developer;I+like+building+weird+things;Currently+exploring+e-ink+%26+embedded+systems" alt="Typing SVG" /></a>
 
-## Current Focus
-Currently, I'm learning game design and development using Unity, while continuing to explore hardware-level neural network implementations on FPGAs.
+<p>
+  <a href="mailto:emir1.ertorer@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/emir-devlet-ert%C3%B6rer-180746286/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" />
+  </a>
+</p>
 
-## Contact
-You can reach me at: emir1.ertorer@gmail.com
+</div>
 
-![Codewars](https://github.r2v.ch/codewars?user=OldOak)
+---
+
+## About
+
+I'm a Computer Science and Engineering graduate from Yeditepe University.
+
+I like building things across different layers of software and hardware. I've worked on FPGA and machine learning projects, low-level systems, games and open-source software.
+
+These days I'm mostly interested in **embedded hardware, e-ink, and machine learning**.
+
+I'm currently looking for opportunities where I can keep building and learning.
+
+---
+
+## Projects
+
+A few things I've built or worked on:
+
+| Project                                                                                                                                    | What it is                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **[Ink Away](https://github.com/EmirErtorer/ink-away.koplugin)**                                                                           | Drawing and note-taking app for e-ink devices                                   |
+| **[BNN on FPGA](https://github.com/EmirErtorer/Binary_Neural_Network_Implementation_For_Handwritten_Digit_Recognition_On_FPGA)** | Binary neural network inference implemented entirely by hand in Verilog, without HLS tools |
+| **[Research Paper](https://arxiv.org/abs/2512.19304)**                                                                                     | Research paper on implementing and optimizing a binary neural network on FPGA |
+| **[VSCPU](https://github.com/EmirErtorer/VSCPU_Implementation_In_Verilog)**                                                                | A 32-bit CPU implemented in SystemVerilog                                         |
+| **[Backgammon](https://github.com/EmirErtorer/backgammon.koplugin)**                                                                       | A backgammon game built for e-ink devices                                         |
+| **[Space Invaders](https://github.com/EmirErtorer/Space_Invaders)**                                                                        | A recreation of the classic arcade game written in pure Java                      |
+| **[Lottery Scheduler](https://github.com/EmirErtorer/Linux-Lottery-Scheduler)**                                                            | A lottery scheduler implemented in the Linux kernel                               |
+| **[Istanbul Airbnb Analysis](https://github.com/EmirErtorer/Data_Analysis_Istanbul_Airbnb)**                                               | Analysis of Airbnb listings and pricing in Istanbul                               |
+
+---
+
+## Tools I Use
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,lua,linux,git" height="40" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,unity" height="40" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Verilog%2FSystemVerilog-000000?style=for-the-badge&logo=verilog&logoColor=white" height="40" />
+</p>
+
