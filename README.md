@@ -2,7 +2,7 @@
 
 # Emir Devlet Ertörer
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Computer+Science+and+Engineering+Graduate;Software+%26+Systems+Developer;I+like+building+weird+things;Currently+exploring+e-ink+%26+embedded+systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Computer+Science+and+Engineering+Graduate;Software+%26+Systems+Developer;Currently+exploring+e-ink+%26+embedded+systems" alt="Typing SVG" /></a>
 
 <p>
   <a href="mailto:emir1.ertorer@gmail.com">
