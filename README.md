@@ -33,16 +33,16 @@ I'm currently looking for opportunities where I can keep building and learning.
 
 A few things I've built or worked on:
 
-| Project                                                                                                                                    | What it is                                                                        |
+| Project | What it is |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| **[Ink Away](https://github.com/EmirErtorer/ink-away.koplugin)**                                                                           | Drawing and note-taking app for e-ink devices                                   |
+| **[Ink Away](https://github.com/EmirErtorer/ink-away.koplugin)**<br><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/EmirErtorer/ink-away.koplugin/total?style=for-the-badge&label=Total%20Downloads%3A&labelColor=%23AC4C08"> | Drawing and note-taking app for e-ink devices |
 | **[BNN on FPGA](https://github.com/EmirErtorer/Binary_Neural_Network_Implementation_For_Handwritten_Digit_Recognition_On_FPGA)** | Binary neural network inference implemented entirely by hand in Verilog, without HLS tools |
-| **[Research Paper](https://arxiv.org/abs/2512.19304)**                                                                                     | Research paper on implementing and optimizing a binary neural network on FPGA |
-| **[VSCPU](https://github.com/EmirErtorer/VSCPU_Implementation_In_Verilog)**                                                                | A 32-bit CPU implemented in SystemVerilog                                         |
-| **[Backgammon](https://github.com/EmirErtorer/backgammon.koplugin)**                                                                       | A backgammon game built for e-ink devices                                         |
-| **[Space Invaders](https://github.com/EmirErtorer/Space-Invaders-Game)**                                                                        | A recreation of the classic arcade game written in pure Java                      |
-| **[Lottery Scheduler](https://github.com/EmirErtorer/Lottery_Scheduler_Linux_Kernel_2.4.27)**                                                            | A lottery scheduler implemented in the Linux kernel                               |
-| **[Istanbul Airbnb Analysis](https://github.com/EmirErtorer/Data_Analysis_Istanbul_Airbnb)**                                               | Analysis of Airbnb listings and pricing in Istanbul                               |
+| **[Research Paper](https://arxiv.org/abs/2512.19304)** | Research paper on implementing and optimizing a binary neural network on FPGA |
+| **[VSCPU](https://github.com/EmirErtorer/VSCPU_Implementation_In_Verilog)** | A 32-bit CPU implemented in SystemVerilog |
+| **[Backgammon](https://github.com/EmirErtorer/backgammon.koplugin)** | A backgammon game built for e-ink devices |
+| **[Space Invaders](https://github.com/EmirErtorer/Space-Invaders-Game)** | A recreation of the classic arcade game written in pure Java |
+| **[Lottery Scheduler](https://github.com/EmirErtorer/Lottery_Scheduler_Linux_Kernel_2.4.27)** | A lottery scheduler implemented in the Linux kernel |
+| **[Istanbul Airbnb Analysis](https://github.com/EmirErtorer/Data_Analysis_Istanbul_Airbnb)** | Analysis of Airbnb listings and pricing in Istanbul |
 
 ---
 
