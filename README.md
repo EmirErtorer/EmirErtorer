@@ -18,6 +18,8 @@
 ---
 ## About
 
+<a href="https://github.com/EmirErtorer"><img align="right" width="333" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=EmirErtorer&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox" /></a>
+
 I'm a Computer Science and Engineering graduate from Yeditepe University.
 
 My main project is **[Ink Away](https://github.com/EmirErtorer/ink-away.koplugin)**, a drawing, note-taking and book annotation plugin for KOReader, the open-source e-reader software. I've built and maintained it from the low-level parts (pen input, palm rejection, e-ink screen refresh) up to features like layers, brush creation, pressure-sensitive pens and EPUB annotation, and I ship regular releases to the people who use it.
@@ -25,6 +27,7 @@ My main project is **[Ink Away](https://github.com/EmirErtorer/ink-away.koplugin
 Outside of that, I've worked on FPGA and machine learning projects, low-level systems and games, including a binary neural network on FPGA that became a published paper.
 
 These days I'm mostly interested in **embedded hardware, e-ink and machine learning**, and I'm looking for opportunities where I can keep building and learning.
+<br clear="right" />
 
 ---
 ## Projects
@@ -43,18 +46,4 @@ A few things I've built or worked on:
 | **[Istanbul Airbnb Analysis](https://github.com/EmirErtorer/Data_Analysis_Istanbul_Airbnb)**<br><img alt="Jupyter: Python" src="https://img.shields.io/badge/Jupyter-Python-white?style=flat&logo=jupyter&logoColor=white&labelColor=rgb(255%2C%2090%2C%2095)"> | Analysis of Airbnb listings and pricing in Istanbul |
 
 ---
-
-## Tools I Use
-
-<div align="center">
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,lua,linux,git" height="40" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,unity" height="40" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Verilog%2FSystemVerilog-000000?style=for-the-badge&logo=verilog&logoColor=white" height="40" />
-</p>
-
+## Tools I Use   &nbsp; <img src="https://skillicons.dev/icons?i=cpp,python,java,lua,linux,git,docker" height="30" align="absmiddle" /> <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge" height="24" align="absmiddle" /> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge" height="24" align="absmiddle" />
