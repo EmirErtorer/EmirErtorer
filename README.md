@@ -17,7 +17,7 @@
 ---
 ## About
 
-<a href="https://github.com/EmirErtorer"><img align="right" width="333" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=EmirErtorer&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox" /></a>
+<a href="https://github.com/EmirErtorer"><img align="right" width="40%" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=EmirErtorer&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox" /></a>
 
 I'm a Computer Science and Engineering graduate from Yeditepe University.
 
