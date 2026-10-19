@@ -19,7 +19,7 @@
 
 <a href="https://github.com/EmirErtorer"><img align="right" width="40%" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=EmirErtorer&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox" /></a>
 
-I'm a Computer Science and Engineering graduate from Yeditepe University.
+I'm a Computer Science and Engineering graduate.
 
 My main project is **[Ink Away](https://github.com/EmirErtorer/ink-away.koplugin)**, a drawing, note-taking and book annotation plugin for KOReader, the open-source e-reader software. I've built and maintained it from the low-level parts (pen input, palm rejection, e-ink screen refresh) up to features like layers, brush creation, pressure-sensitive pens and EPUB annotation, and I ship regular releases to the people who use it.
 
