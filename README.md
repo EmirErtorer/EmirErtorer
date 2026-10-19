@@ -12,7 +12,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" />
   </a>
 </p>
-
 </div>
 
 ---
@@ -43,7 +42,6 @@ A few things I've built or worked on:
 | **[VSCPU](https://github.com/EmirErtorer/VSCPU_Implementation_In_Verilog)**<br><img alt="CPU: 32-bit" src="https://img.shields.io/badge/CPU-32--bit-white?style=flat&labelColor=rgb(37%2C%2099%2C%20235)"> <img alt="HDL: SystemVerilog" src="https://img.shields.io/badge/HDL-SystemVerilog-white?style=flat&labelColor=rgb(37%2C%2099%2C%20235)"> | A 32-bit CPU implemented in SystemVerilog |
 | **[Space Invaders](https://github.com/EmirErtorer/Space-Invaders-Game)**<br><img alt="Java: Pure, no libraries" src="https://img.shields.io/badge/Java-Pure%2C%20no%20libraries-white?style=flat&logo=openjdk&logoColor=white&labelColor=rgb(232%2C%20116%2C%2023)"> | A recreation of the classic arcade game written in pure Java |
 | **[Lottery Scheduler](https://github.com/EmirErtorer/Lottery_Scheduler_Linux_Kernel_2.4.27)**<br><img alt="Linux Kernel: 2.4.27" src="https://img.shields.io/badge/Linux%20Kernel-2.4.27-white?style=flat&logo=linux&logoColor=white&labelColor=rgb(55%2C%2065%2C%2081)"> | A lottery scheduler implemented in the Linux kernel |
-| **[Istanbul Airbnb Analysis](https://github.com/EmirErtorer/Data_Analysis_Istanbul_Airbnb)**<br><img alt="Jupyter: Python" src="https://img.shields.io/badge/Jupyter-Python-white?style=flat&logo=jupyter&logoColor=white&labelColor=rgb(255%2C%2090%2C%2095)"> | Analysis of Airbnb listings and pricing in Istanbul |
 
 ---
 ## Tools I Use   &nbsp; <img src="https://skillicons.dev/icons?i=cpp,python,java,lua,linux,git,docker" height="30" align="absmiddle" /> <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge" height="24" align="absmiddle" /> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge" height="24" align="absmiddle" />
